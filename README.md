@@ -27,6 +27,8 @@ Anvil is a transparent local inference layer built around `llama.cpp` / `llama-s
 Repo: https://github.com/sovereignty-labs/anvil
 Website: https://sovereignty-labs.com/blog/introducing-anvil/
 
+
+
 ### HEAT
 
 **Sovereign memory for local AI systems.**
@@ -77,3 +79,5 @@ http://localhost:11434/v1
 Website: https://sovereignty-labs.com
 GitHub: https://github.com/sovereignty-labs
 X: https://x.com/the_arkitectai
+
+
